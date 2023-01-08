@@ -1,0 +1,35 @@
+.Google2 {
+    margin: 0;
+      position: absolute;
+     top: 41%;
+    left: 50%;
+     -ms-transform: translate(-50%, -50%);
+      transform: translate(-50%, -50%);
+    }
+
+#searchbox1 {
+    border-radius: 25px;
+    border: 1px solid lightgray;
+    padding: 20px; 
+    width:400px;
+    height: 5px; 
+    outline: none;    
+}
+#footer{
+    position:absolute;
+    bottom:0;
+    width:100%;
+    height:60px;   /* Height of the footer */
+    background:lightgray;
+}
+    
+#button1{
+    background-color:#F0F0F0;
+    color: #606060;
+    border: #FAFAFA;
+    width:150px;
+    font-size: medium;
+    height:43px;
+    margin-left:35%;
+    outline: none;    
+}
